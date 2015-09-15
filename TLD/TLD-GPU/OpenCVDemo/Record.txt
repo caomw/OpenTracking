@@ -1,0 +1,100 @@
+Sat Jun 13 17:46:30 2015
+Sat Jun 13 17:47:37 2015
+Sat Jun 13 17:52:33 2015
+Sat Jun 13 17:53:39 2015
+Sat Jun 13 17:54:03 2015
+Sat Jun 13 19:28:16 2015
+Sat Jun 13 19:28:40 2015
+Sat Jun 13 19:29:30 2015
+Sat Jun 13 19:31:43 2015
+Sat Jun 13 19:41:19 2015
+Sat Jun 13 19:44:03 2015
+num=0 ../datasets/01_david/david.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:165 y:93 h:51 w:54
+Detection rate: 572/761
+classifier.pEx: 69 classifier.nEx: 133
+timecost = 193752ms 
+every frame cost 254.602 ms 
+33.4961ms 21.2452ms 54.7625ms
+
+Sat Jun 13 19:50:40 2015
+num=0 ../datasets/01_david/david.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:165 y:93 h:51 w:54
+Detection rate: 572/761
+classifier.pEx: 69 classifier.nEx: 133
+timecost = 217140ms 
+every frame cost 285.336 ms 
+43.4278ms 22.4378ms 65.8887ms
+
+Sat Jun 13 19:54:17 2015
+num=1 ../datasets/02_jumping/jumping.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:147 y:110 h:33 w:32
+Detection rate: 35/313
+classifier.pEx: 11 classifier.nEx: 28
+timecost = 22548.3ms 
+every frame cost 72.0392 ms 
+29.4917ms 15.8878ms 45.4131ms
+
+Sat Jun 13 19:54:39 2015
+num=2 ../datasets/03_pedestrian1/pedestrian1.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:47 y:51 h:21 w:36
+Detection rate: 28/140
+classifier.pEx: 8 classifier.nEx: 24
+timecost = 8316.51ms 
+every frame cost 59.4037 ms 
+19.4337ms 15.1731ms 34.6501ms
+
+Sat Jun 13 19:54:48 2015
+num=3 ../datasets/04_pedestrian2/pedestrian2.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:124 y:136 h:21 w:53
+Detection rate: 33/338
+classifier.pEx: 12 classifier.nEx: 35
+timecost = 14234.8ms 
+every frame cost 42.1149 ms 
+9.30779ms 15.3614ms 24.6875ms
+
+Sat Jun 13 19:55:02 2015
+num=4 ../datasets/05_pedestrian3/pedestrian3.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:154 y:102 h:24 w:52
+Detection rate: 52/184
+classifier.pEx: 8 classifier.nEx: 29
+timecost = 11673.2ms 
+every frame cost 63.4411 ms 
+11.1604ms 15.0547ms 26.2343ms
+
+Sat Jun 13 19:55:14 2015
+num=5 ../datasets/06_car/car.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:142 y:125 h:90 w:39
+Detection rate: 324/945
+classifier.pEx: 4 classifier.nEx: 12
+timecost = 34491.4ms 
+every frame cost 36.4989 ms 
+9.12733ms 14.0135ms 23.1762ms
+
+Tue Sep 15 15:14:38 2015
+Tue Sep 15 15:15:53 2015
+Tue Sep 15 15:23:23 2015
+num=0 car.mpg
+patch_size=15
+USE GPU OR CPU£º-filt1gpu-filt2gpu-
+Initial Bounding Box = x:142 y:125 h:90 w:39
+Detection rate: 324/945
+classifier.pEx: 5 classifier.nEx: 12
+timecost = 16275.7ms 
+every frame cost 17.2229 ms 
+3.16369ms 5.36522ms 8.53861ms
+
